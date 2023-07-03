@@ -43,11 +43,12 @@ experiences:
         company: Adnovum Vietnam
         details: |
           Investment product management system for Swiss bank
-          - Main tech stack: Java Spring, Oracle DB as backend, Java Eclipse RCP as frontend, CI/CD using jenkin
-          - Collab with Swiss team to nalyze, clarify tickets and implement feature, fixing bug
+          - Main tech stack: Java Spring, Oracle DB as backend, Java Eclipse RCP as frontend, CI/CD using jenkin, git as version control and maven as build tool.
+          - Collab with Swiss team to nalyze, clarify tickets
           - Achievements:
-            - Implemented feature with complex business logic
-            - 
+            - Implemented GUI features using eclipse RCP and components from project library.
+            - Implemented backend features with complex business logic. E.g: deal with complicated data structure.
+            - Fixing performance issue ussing tool like Intellij profiler
       - role: Fresher
         time: 4/2019 - 2/2020
         company: VNG Cloud
