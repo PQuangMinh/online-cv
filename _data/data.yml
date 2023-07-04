@@ -61,7 +61,7 @@ experiences:
             - Working with PO, teammates to clarify and implement backend API to handle user data and process core service data to show to user.          
             - Implement webpage in javascript
           - Achievements
-            - Implement log system using AOP that track users across services.
+            - Implement log service using AOP that track users action across services.
             - Implement home page using javascript that show charts displaying monitoring status.
 
 certifications:
