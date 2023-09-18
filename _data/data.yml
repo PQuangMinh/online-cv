@@ -45,24 +45,25 @@ experiences:
         details: |
           Investment Management product for Swiss bank
           - Main tech stack: Java Spring, Oracle DB as backend, Java Eclipse RCP as frontend, CI/CD using jenkin, git as version control and maven as build tool.
-          - Collab with teammates from VN and Switzerland to clarify and analyze tickets:
-            - Implement core modules used to design investment products which will be offered to end clients.
+          - Collaborate with teammates from VN and Switzerland to clarify and analyze tickets:
+            - Implement core modules used to design investment products which will be offered to end clients.            
           - Achievements:
-            - Implement GUI features using eclipse RCP and components from project library.
-            - Implement backend features and ensure test coverage by writing unit tests.
-            - Adapt change requests, refactor code.
-            - Fixing bugs in both backend and frontend side.            
+            - Implement user-friendly GUI features for a complex investment management software application using eclipse RCP and project library components, resulting in increased customer satisfaction.
+            - Implement backend features for a high performance service, ensuring high test coverage by writing unit tests, leading to improve functionality and reliability.
+            - Refactor and improve code flow to increase readability and performance.
+            - Resolve critical bugs in both backend and frontend side.            
+            - Monitoring and troubleshooting servers.
       - role: Fresher
         time: 4/2019 - 2/2020
         company: VNG Cloud
         details: |
           - Main tech stack: Spring Boot, MySQL as backend, JSP, javascript, HTML/CSS as frontend
-          - Participate in developping web project in both backend and frontend
-            - Working with PO, teammates to clarify and implement backend API to handle user data and process core service data to show to user.          
-            - Implement webpage in javascript
+          - Participated in developping web project in both backend and frontend
+            - Worked with PO, teammates to clarify and implement backend API to handle user data and process core service data to show to user.          
+            - Implemented webpage in javascript
           - Achievements
-            - Implement log service using AOP that track users action across services.
-            - Implement home page using javascript that show charts displaying monitoring status.
+            - Implemented log service using AOP that track users action across services.
+            - Implemented home page using javascript that show charts displaying monitoring status.
 
 certifications:
       title: Certifications
