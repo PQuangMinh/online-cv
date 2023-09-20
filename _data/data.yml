@@ -58,12 +58,12 @@ experiences:
         company: VNG Cloud
         details: |
           - Main tech stack: Spring Boot, MySQL as backend, JSP, javascript, HTML/CSS as frontend
-          - Participated in developping web project in both backend and frontend
-            - Worked with PO, teammates to clarify and implement backend API to handle user data and process core service data to show to user.          
+          - Contributed to developing web project in both backend (Spring Boot, MySQL) and frontend (JSP, javascript, HTML/CSS)
+            - Collaborated with PO and teammates to clarify and implement backend API using Spring Boot and MySQL to handle user data and process core service data to show to user using JSP
             - Implemented webpage in javascript
           - Achievements
-            - Implemented log service using AOP that track users action across services.
-            - Implemented home page using javascript that show charts displaying monitoring status.
+            - Designed and implemented a log service using AOP for a web project that tracks users' actions across services, resulting in improved security and auditability.
+            - Implemented home page using javascript that show charts displaying service monitoring status, leading to increased visibility and efficiency.
 
 certifications:
       title: Certifications
